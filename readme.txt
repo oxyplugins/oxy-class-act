@@ -29,6 +29,21 @@ Valid license key should be entered for the plugin to function and to receive au
 
 == Changelog ==
 
+= 1.4 - April 03, 2020 =
+* Fix: Clear styles wiping out code in the Code Block.
+* Fix: Lag when typing in the classname field.
+
+= 1.3 - March 09, 2020 =
+* Added option to disable warnings.
+* Added new buttons to copy/move styles to the element's ID from class.
+
+= 1.2.2 - March 06, 2020 =
+* Added a workaround to tackle headers already sent issue on plugin activation/deactivation.
+
+= 1.2.1 - March 05, 2020 =
+* Added a bug fix related to the licensing process that was resulting in page getting redirected to options.php with a message that the link has expired.
+* Added fix for headers already sent warnings.
+
 = 1.2 - March 02, 2020 =
 * Added compatibility fix for Editor Enhancer PRO.
 
