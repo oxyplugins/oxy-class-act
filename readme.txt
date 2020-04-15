@@ -2,7 +2,7 @@
 Contributors: Gagan Goraya, Sridhar Katakam
 Tags: oxygen, oxygen builder, oxygen editor
 Requires at least: 4.9
-Tested up to: 5.3.2
+Tested up to: 5.4
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -28,6 +28,16 @@ This plugin lets you move or copy the styles associated with id or a class of an
 Valid license key should be entered for the plugin to function and to receive automatic updates.
 
 == Changelog ==
+
+= 1.4.3 - April 15, 2020 =
+* Applied a fix to clear :before and :after when data is moved.
+
+= 1.4.2 - April 09, 2020 =
+* Fixed shortcode getting removed from Shortcode components when Copy to Class or Move to Class actions were performed.
+
+= 1.4.1 - April 08, 2020 =
+* Fix: Fixed compatibility issue with our upcoming Oxy Undo plugin.
+* Enhancement: Added steps to license the plugin in the settings page.
 
 = 1.4 - April 03, 2020 =
 * Fix: Clear styles wiping out code in the Code Block.
