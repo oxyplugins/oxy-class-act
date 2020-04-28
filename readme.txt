@@ -31,6 +31,12 @@ Valid license key should be entered for the plugin to function and to receive au
 
 == Changelog ==
 
+= 1.4.5 - April 24, 2020 =
+* Fixed span element disappearing when any of the plugin's buttons are clicked.
+
+= 1.4.4 - April 20, 2020 =
+* Applied a fix to ensure that plugin's buttons do not appear when no element is selected.
+
 = 1.4.3 - April 15, 2020 =
 * Applied a fix to clear :before and :after when data is moved.
 
