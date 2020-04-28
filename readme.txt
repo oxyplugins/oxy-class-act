@@ -31,43 +31,55 @@ Valid license key should be entered for the plugin to function and to receive au
 
 == Changelog ==
 
-= 1.4.5 - April 24, 2020 =
+= 1.4.5 (April 24, 2020) =
+
 * Fixed span element disappearing when any of the plugin's buttons are clicked.
 
-= 1.4.4 - April 20, 2020 =
+= 1.4.4 (April 20, 2020) =
+
 * Applied a fix to ensure that plugin's buttons do not appear when no element is selected.
 
-= 1.4.3 - April 15, 2020 =
+= 1.4.3 (April 15, 2020) =
+
 * Applied a fix to clear :before and :after when data is moved.
 
-= 1.4.2 - April 09, 2020 =
+= 1.4.2 (April 09, 2020) =
+
 * Fixed shortcode getting removed from Shortcode components when Copy to Class or Move to Class actions were performed.
 
-= 1.4.1 - April 08, 2020 =
+= 1.4.1 (April 08, 2020) =
+
 * Fix: Fixed compatibility issue with our upcoming Oxy Undo plugin.
 * Enhancement: Added steps to license the plugin in the settings page.
 
-= 1.4 - April 03, 2020 =
+= 1.4 (April 03, 2020) =
+
 * Fix: Clear styles wiping out code in the Code Block.
 * Fix: Lag when typing in the classname field.
 
-= 1.3 - March 09, 2020 =
+= 1.3 (March 09, 2020) =
+
 * Added option to disable warnings.
 * Added new buttons to copy/move styles to the element's ID from class.
 
-= 1.2.2 - March 06, 2020 =
+= 1.2.2 (March 06, 2020) =
+
 * Added a workaround to tackle headers already sent issue on plugin activation/deactivation.
 
-= 1.2.1 - March 05, 2020 =
+= 1.2.1 (March 05, 2020) =
+
 * Added a bug fix related to the licensing process that was resulting in page getting redirected to options.php with a message that the link has expired.
 * Added fix for headers already sent warnings.
 
-= 1.2 - March 02, 2020 =
+= 1.2 (March 02, 2020) =
+
 * Added compatibility fix for Editor Enhancer PRO.
 
-= 1.1 - February 29, 2020 =
+= 1.1 (February 29, 2020) =
+
 * Added a button to reset styles for the current class/id.
 * Removed plugin's branding in the Oxygen editor.
 
-= 1.0 - February 28, 2019 =
+= 1.0 (February 28, 2019) =
+
 * Initial Release.
