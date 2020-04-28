@@ -13,6 +13,8 @@ Lets you move/copy/clear the styles for id/class of any element when using Oxyge
 
 This plugin lets you move or copy the styles associated with id or a class of any element to a new class or clear all the styles for the id/class when using [Oxygen](oxygenbuilder.com).
 
+A valid license key must be entered for the plugin to function and to receive automatic updates.
+
 == Installation ==
 
 1. Click on the download link in your purchase confirmation email if you have not already downloaded it after your purchase.
