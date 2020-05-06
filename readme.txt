@@ -31,6 +31,9 @@ Valid license key should be entered for the plugin to function and to receive au
 
 == Changelog ==
 
+= 1.4.6 (May 07, 2020) =
+* Fixed Repeater components vanishing on clearing styles.
+
 = 1.4.5 (April 24, 2020) =
 
 * Fixed span element disappearing when any of the plugin's buttons are clicked.
